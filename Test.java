@@ -12,7 +12,6 @@ import java.util.Scanner;
 public class Test {
     private static final String API_URL = "https://openrouter.ai/api/v1/chat/completions";
     //Key might eexpire or be old
-    private static final String API_KEY = "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";
 
     public static void main(String[] args) {
         //ADD USER INPUT
